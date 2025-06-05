@@ -1,0 +1,19 @@
+# Docker
+*.log
+*.tar
+*.tar.gz
+
+# Node.js
+node_modules/
+npm-debug.log
+.yarn-integrity
+package-lock.json
+
+# Docker volumes and temporary files
+volumes/
+*.tmp
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
